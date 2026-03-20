@@ -1,4 +1,3 @@
-# constellation-orbital-revisit-time-and-ground-access
 # Walker Satellite Constellation Analysis Toolkit
 
 This repository contains MATLAB scripts for optimizing and analyzing Walker-style satellite constellations with respect to **global revisit time**, with a focus on **air traffic monitoring**.  
